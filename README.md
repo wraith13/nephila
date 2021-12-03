@@ -2,10 +2,25 @@
 
 Nephila is subprojects pack for staic single page web application.
 
-## How to include
+## How to add
 
 ```shell
 git submodule add https://github.com/wraith13/nephila nephila
+git submodule update --recursive --merge --init
+```
+
+## How to update
+
+```shell
+git submodule update --recursive --merge --init
+```
+
+## How to remove
+
+```shell
+git submodule deinit -f nephila
+git rm -f nephila
+rm -rf .git/modules/nephila
 ```
 
 ## Subprojects
