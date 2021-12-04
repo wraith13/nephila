@@ -12,6 +12,9 @@ git submodule update --recursive --merge --init
 ## How to update
 
 ```shell
+cd ./nephila
+git pull -f
+cd ..
 git submodule update --recursive --merge --init
 ```
 
