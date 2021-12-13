@@ -34,3 +34,8 @@ rm -rf .git/modules/nephila
 |[evil-commonjs](https://github.com/wraith13/evil-commonjs)|evil-commonjs is a simple commonjs implement.|
 |[minamo.js](https://github.com/wraith13/minamo.js)|minamo.js is a necessary and sufficient and simple JavaScript/TypeScript library.|
 |tektite.js|...|
+
+## Projects using this subprojects pack
+
+- [Cyclic ToDo](https://github.com/wraith13/cyclic-todo) (via nephila )
+- [Clockworks](https://github.com/wraith13/clockworks) ( via nephila )
