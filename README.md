@@ -32,6 +32,7 @@ rm -rf .git/modules/nephila
 |---|---|
 |[build.js](https://github.com/wraith13/build.js)|node.js based builder.|
 |[evil-commonjs](https://github.com/wraith13/evil-commonjs)|evil-commonjs is a simple commonjs implement.|
+|[evil-timer.js](https://github.com/wraith13/evil-timer.js)|evil-timer.js is an auxiliary script for debugging and tuning CSS.|
 |[minamo.js](https://github.com/wraith13/minamo.js)|minamo.js is a necessary and sufficient and simple JavaScript/TypeScript library.|
 |tektite.js|...|
 
