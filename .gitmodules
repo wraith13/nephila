@@ -7,3 +7,6 @@
 [submodule "minamo.js"]
 	path = minamo.js
 	url = https://github.com/wraith13/minamo.js
+[submodule "evil-timer.js"]
+	path = evil-timer.js
+	url = https://github.com/wraith13/evil-timer.js
