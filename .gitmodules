@@ -10,3 +10,6 @@
 [submodule "evil-timer.js"]
 	path = evil-timer.js
 	url = https://github.com/wraith13/evil-timer.js
+[submodule "tektite.js"]
+	path = tektite.js
+	url = https://github.com/wraith13/tektite.js

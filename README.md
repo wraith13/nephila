@@ -34,9 +34,10 @@ rm -rf .git/modules/nephila
 |[evil-commonjs](https://github.com/wraith13/evil-commonjs)|evil-commonjs is a simple commonjs implement.|
 |[evil-timer.js](https://github.com/wraith13/evil-timer.js)|evil-timer.js is an auxiliary script for debugging and tuning CSS.|
 |[minamo.js](https://github.com/wraith13/minamo.js)|minamo.js is a necessary and sufficient and simple JavaScript/TypeScript library.|
-|tektite.js|...|
+|[tektite.js](https://github.com/wraith13/tektite.js)|minamo.js is a Web UI framework for TypeScript/JavaScript.|
 
 ## Projects using this subprojects pack
 
 - [Cyclic ToDo](https://github.com/wraith13/cyclic-todo) (via nephila )
 - [Clockworks](https://github.com/wraith13/clockworks) ( via nephila )
+- [Flounder Studio](https://github.com/wraith13/flounder.studio) ( via nephila )
