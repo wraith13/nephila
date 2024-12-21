@@ -13,3 +13,6 @@
 [submodule "tektite.js"]
 	path = tektite.js
 	url = https://github.com/wraith13/tektite.js
+[submodule "evil-type.ts"]
+	path = evil-type.ts
+	url = https://github.com/wraith13/evil-type.ts
